@@ -78,7 +78,7 @@ socials:
 # Footer (uses CountdownPlugin)
 # -----------------------------------------------------------------------------
 footer: >
-     <br>page has been live for {{ vars.CountdownPlugin.linkyee_release.days }} days. 🎉
+   
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
